@@ -1,5 +1,6 @@
-# 💫 About Me:
-<br>🌱Currently Learning all about core development technologies like Spring Boot, Java, TypeScript and React <br>
+# Hi, I'm Calum Davies
+
+#Second Year Student at the University Of Dundee
 
 
 ## 🌐 Socials:
