@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a second-year student passionate about software development, currently building my skills across full-stack web and mobile development. I enjoy working on projects that combine clean design with solid engineering.
+I'm a second-year student passionate about software development, currently building my skills across full-stack deveopment. I enjoy working on projects that combine clean design with solid engineering.
 
 ---
 
