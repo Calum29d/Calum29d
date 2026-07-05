@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a second-year student passionate about software development, currently building my skills across full-stack deveopment. I enjoy working on projects that combine clean design with solid engineering.
+I'm a second-year student passionate about software development, currently building my skills across full-stack web and mobile development. I enjoy working on projects that combine clean design with solid engineering.
 
 ---
 
@@ -48,7 +48,7 @@ I'm a second-year student passionate about software development, currently build
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Calum29d&icon=0&color=1" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Calum29d&icon=0&color=0e75b6" alt="Profile Views"/>
   </a>
 </p>
 
