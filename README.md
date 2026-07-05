@@ -52,4 +52,3 @@ I'm a second-year student passionate about software development, currently build
   </a>
 </p>
 
-<p align="center"><sub>Built with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
