@@ -33,19 +33,6 @@ I'm a second-year student passionate about software development, currently build
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Calum29d&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Calum29d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Calum29d&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Calum29d&icon=0&color=0e75b6" alt="Profile Views"/>
