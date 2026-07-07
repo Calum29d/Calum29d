@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Calum Davies 👋</h1>
+
 <p align="center">
   Second Year Computing Science Student at the University of Dundee
 </p>
@@ -20,6 +21,7 @@ I'm a second-year student passionate about software development, currently build
 ## 🛠️ Tech Stack
 
 **Languages**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -27,9 +29,11 @@ I'm a second-year student passionate about software development, currently build
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -38,4 +42,3 @@ I'm a second-year student passionate about software development, currently build
     <img src="https://komarev.com/ghpvc/?username=Calum29d&icon=0&color=0e75b6" alt="Profile Views"/>
   </a>
 </p>
-
