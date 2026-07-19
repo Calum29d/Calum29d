@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Calum Davies 👋</h1>
 
 <p align="center">
-  Rising Second Year Computing Science Student at the University of Dundee
+  Second Year Computing Science Student at the University of Dundee
 </p>
 
 <p align="center">
