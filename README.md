@@ -1,5 +1,5 @@
 ➤ Check out my <a href="https://calum29d.github.io/MyPortfolio/" target="_blank">portfolio</a><br>
-➤ Second-Year CS Student @ The University Of Dundee<br>
+➤ Second-Year CS Student @ The University of Dundee<br>
 ➤ Java, JavaScript, TypeScript, Python • Spring Boot, React, React Native   <br>
 ➤ Connect with me:
     <a href="mailto:calumdavies08@gmail.com">calumdavies08@gmail.com</a>
