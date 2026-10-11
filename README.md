@@ -4,7 +4,7 @@
 ➤ Connect with me:
     <a href="mailto:calumdavies08@gmail.com">calumdavies08@gmail.com</a>
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Calum29d&icon=0&color=0e75b6" alt="Profile Views"/>
+  <a href="https://hits.sh/github.com/Calum29d/">
+    <img src="https://hits.sh/github.com/Calum29d.svg?style=flat-square&label=Profile%20views&color=0e75b6" alt="Profile Views"/>
   </a>
 </p>
